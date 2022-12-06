@@ -32,6 +32,11 @@ The following items will be included in the proposal:
 * Spawn time
   * Even if the proposal passes, the CCV states will not be available from the provider chain until after the spawn time is reached.
 
+## Faucet
+You can get rand token from our faucet. faucet served by AllThatNode.
+Please visit AllThatNode and get rand token! also you can find RPC and faucet service for a lot of chains here.
+https://www.allthatnode.com/faucet/goc.dsrv
+
 ## Chain Data
 
 ### Binary
